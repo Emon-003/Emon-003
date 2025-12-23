@@ -1,3 +1,6 @@
+# 💫 About Me:
+👋 Hi, I'm Shishir  <br>💡 AI & ML Enthusiast | CS Student  <br>🤖 Working on Deep Learning, XAI, and Data Science projects  <br>📈 Passionate about learning, coding, and building smart systems  <br>🚀 Exploring the future of Artificial Intelligence<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emonahmedshishir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emonahmedshishir110) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emonahmedshishir@gmail.com) 
